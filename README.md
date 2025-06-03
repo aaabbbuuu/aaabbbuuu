@@ -1,9 +1,9 @@
 <h1 align="center">Hi there👋, I'm Abu Hassan</h1>
 <h3 align="center">A software engineer based in Atlanta</h3>
 
-- 🔭 I’m currently working on **a photography website**
+- 🔭 I’m currently working on **a smart photo organization application**
 
-- 🌱 I’m currently learning **React, Node.js**
+- 🌱 I’m currently learning **React/Electron**
 
 - 👯 I’m looking to collaborate on **some open source projects**
 
