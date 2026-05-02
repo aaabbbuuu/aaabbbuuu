@@ -69,4 +69,4 @@ A clean Python REST API implementation demonstrating standard HTTP patterns, rou
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abu-hassan-t)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abu.t.hassan@gmail.com)
-[![Website](https://img.shields.io/badge/Website-FF0000?style=flat&logo=youtube&logoColor=white)](https://abuhassan.dev/)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://abuhassan.dev/)
